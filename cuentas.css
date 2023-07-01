@@ -1,0 +1,181 @@
+* {
+     box-sizing: border-box !important;
+     transition: ease all 0.5s;
+	box-zizing: border-box;
+	padding: 0;
+	margin: 0;
+}*
+
+div.div_arriba{
+	background-color: #CC00FF;
+	height: 25px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	position: fixed;
+	width: 100%;
+	}
+	
+div.header{
+	background-color: white;
+	border: 1px solid transparent;
+	border-radius: 10px;
+	height: 80px;
+	itmen-align: inline:
+	padding: 15px 15px 15px 15px;
+	margin-top: 140px;
+	margin-left: 0px;
+	margin-right: 0px;
+	position: center;
+	width: 100%;
+	}
+	
+div.linea_vertical{
+	background-color: #FF0099;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	color: black;
+	margin-left: 5px;
+	margin-top: 10px;
+	position: vertical;
+	height: 60px;
+	width: 5px;
+	}
+
+.p_h{
+	border: 1px solid #000000;
+	border-radius: 100px;
+	height: 60px;
+	margin-left: 8px;
+	margin-top: 0px;
+	width: 60px;
+	}
+	
+.menu_np{
+	color: red;
+	display: inline
+	margin-left: 5px;
+	font-size: 18px;
+	}
+	
+.onlibby{
+	color: white;
+	margin-left: 5px;
+	margin-top: 0px;
+	text-size: 1px;
+	text-align:;
+	}
+	
+.perfil{
+	border: 3px solid white;
+	border-radius: 100px;
+	height: 90px;
+	margin-top: 26.5vh;
+	margin-left: 10px;
+	margin-right: 8px;
+	margin-bottom: 0px;
+	padding: 0px 0px 0px 0px;
+	width: 90px;
+	}
+
+.usuario{
+	color: dodgerblue;
+	margin-top: 0px;
+	margin-left: 8px;
+	}
+	
+.info{
+	color: black;
+	margin-left: 5px;
+	margin-top: 10px;
+	}
+	
+.boton{
+	width:64%;
+	height:10%;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	background: linear-gradient(76deg ,#0000ff ,#ffff00);
+	border-style:solid;
+	border-color:#000000;
+	border-width:1px;
+	box-shadow: 0px 0px 10px 1px #000000;
+	}	
+	
+.boton1{
+	border: 2px solid orange;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 6px;
+	margin-top: 10px;
+	width: 40px;
+	}
+	
+.boton2{
+	border: 2px solid green;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}
+	
+.boton3{
+	border: 2px solid blue;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}
+	
+.boton4{
+	border: 2px solid magenta;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}	
+	
+.boton5{
+	border: 2px solid gold;
+	border-radius: 100px;
+	height: 40px;
+	margin-left: 10px;
+	width: 40px;
+	}	
+	
+.perfil_p{
+	border: 3px solid white;
+	border-radius: 100px;
+	float: left;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 3px;
+	margin-right: 5px;
+	padding: 0px 0px 0px 0px;
+	width: 50px;
+	}	
+
+.usuario_p{
+	color: black;
+	margin-top: 26px;
+	margin-left: 5px;
+	}	
+	
+.fecha{
+	color: gray;
+	margin-left: 8px;
+	margin-top: 40px;
+	}
+	
+.post{
+	height: auto;
+	margin-top: 3px;
+	width: 100%;
+	}
+	
+.pie{
+	color: gray;
+	margin-left: 5px;
+	margin-top:0px;
+	}
